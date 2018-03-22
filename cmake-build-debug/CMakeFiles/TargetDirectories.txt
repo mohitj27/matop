@@ -1,0 +1,3 @@
+C:/Users/Mohit/CLionProjects/matop/cmake-build-debug/CMakeFiles/matop.dir
+C:/Users/Mohit/CLionProjects/matop/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mohit/CLionProjects/matop/cmake-build-debug/CMakeFiles/rebuild_cache.dir

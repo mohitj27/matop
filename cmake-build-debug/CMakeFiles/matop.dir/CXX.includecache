@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mohit/CLionProjects/matop/main.cpp
+iostream
+-
+chrono
+-
+fstream
+-
+iomanip
+-
+limits
+-
+timer.h
+C:/Users/Mohit/CLionProjects/matop/timer.h
+matrix.h
+C:/Users/Mohit/CLionProjects/matop/matrix.h
+
+C:/Users/Mohit/CLionProjects/matop/matrix.h
+cstdlib
+-
+array
+-
+ostream
+-
+complex
+-
+vector
+-
+
+C:/Users/Mohit/CLionProjects/matop/timer.h
+
